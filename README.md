@@ -1,2 +1,2 @@
 # new_beginning
-Auf dem zum Programmierer mit Python. 
+Auf dem Weg zum Programmierer mit Python. 
