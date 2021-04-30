@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 class Point:
     def __init__(self, x, y): # constructer is a function to create an object
         self.x = x
@@ -42,7 +41,7 @@ class Cat(Mammal):
 dog1 = Dog()
 dog1.bark()
 cat1 = Cat()
-=======
+
 class Point:
     def __init__(self, x, y): # constructer is a function to create an object
         self.x = x
@@ -86,5 +85,4 @@ class Cat(Mammal):
 dog1 = Dog()
 dog1.bark()
 cat1 = Cat()
->>>>>>> origon/main
 cat1.meows()

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 def find_max(numbers):
     maximum = numbers[0]
     for number in numbers:
@@ -14,7 +14,7 @@ def find_min(numbers):
             minimum = number
     return minimum
 
-=======
+
 def find_max(numbers):
     maximum = numbers[0]
     for number in numbers:
@@ -30,4 +30,3 @@ def find_min(numbers):
             minimum = number
     return minimum
 
->>>>>>> origon/main
